@@ -1,31 +1,27 @@
 body {
     background: black;
     min-width: 600px;
-    background-image:url(../imagens/.png);
-    background-repeat: no-repeat;
-    background-size: 100%;
-   
-    
+
 }
 
 header{
     text-align: center;
-color: rgb(255, 255, 255);}
+color: rgb(255, 102, 0);}
 
 section {
-    background: rgb(255, 255, 255);
+    background: rgb(233, 121, 30);
     padding: 15px;
     width: 500px;
     margin: auto;
     border-radius: 10px;
-    box-shadow: 10px 10px rgb(219, 219, 219);
+    box-shadow: 10px 10px rgb(226, 135, 59);
     z-index: 2;
     
 }
 
 footer{
     text-align: center;
-    color: white;
+    color: rgb(255, 102, 0);
     margin-top: 10px;
 }
 
