@@ -1,2 +1,2 @@
-# Super Calculadora
- calculadora feita em JS
+# Super Tabuada
+ Tabuada feita em JS
