@@ -6,7 +6,7 @@ body {
 
 header{
     text-align: center;
-color: rgb(255, 102, 0);}
+color: #9dff00;}
 
 section {
     background:white;
@@ -14,7 +14,7 @@ section {
     width: 500px;
     margin: auto;
     border-radius: 10px;
-    box-shadow: 10px 10px rgb(253, 114, 0);
+    box-shadow: 10px 10px 10px #9dff00;
     z-index: 2;
     
     
@@ -22,7 +22,7 @@ section {
 
 footer{
     text-align: center;
-    color: rgb(255, 102, 0);
+    color: #9dff00;
     margin-top: 10px;
    
 }
@@ -33,4 +33,10 @@ input .number {
 
 #setab{
     margin-left: 150px;
+}
+
+#resultado {
+    padding: 10px;
+    width: 800px 800px;
+    
 }
